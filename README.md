@@ -3,6 +3,7 @@ Phân tích yêu cầu &amp; Thiết kế Use Case
 
 dự án: bán hàng online
 Use Case diagram 
+![Use Case Diagram](https://github.com/n23dcpt013-wq/lab02/blob/main/UseCase_OnlineShop.drawio.png)
 
 Use Case Description
 Use Case 1: Đăng nhập
